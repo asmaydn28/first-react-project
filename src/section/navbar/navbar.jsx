@@ -2,7 +2,7 @@ import "bootstrap/dist/js/bootstrap.bundle.min";
 
 function Navbar() {
     return (
-        <nav className="navbar navbar-expand-lg bg-danger navbar-dark">
+        <nav className="navbar navbar-expand-lg bg-dark navbar-dark">
             <div className="container">
                 <a class="navbar-brand" href="#">Start Bootstrap</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
