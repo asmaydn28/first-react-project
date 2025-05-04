@@ -1,12 +1,22 @@
-# React + Vite
+## 🇹🇷 Türkçe Açıklama
+Bu proje, React öğrenme sürecimde oluşturduğum modern ve responsive bir one-page portfolyo sitesidir. Temel özellikler:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- ⚡ Vite ile ultra hızlı build süreci
+- 🖥️ Tamamen responsive tasarım (mobile/tablet/desktop)
+- 🎨 React Bootstrap + Sass ile stil yönetimi
+- 🧩 Modüler component yapısı
+- 🚀 Performans optimizasyonları
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🇬🇧 English Description
+This is a modern responsive one-page portfolio website I created while learning React. Key features:
 
-## Expanding the ESLint configuration
+⚡ Ultra-fast build with Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖥️ Fully responsive design (mobile/tablet/desktop)
+
+🎨 Styling with React Bootstrap + Sass
+
+� Modular component structure
+
+🚀 Performance optimizations
