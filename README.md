@@ -7,6 +7,7 @@ Bu proje, React öğrenme sürecimde oluşturduğum modern ve responsive bir one
 - 🧩 Modüler component yapısı
 - 🚀 Performans optimizasyonları
 
+🌐 Live Demo / Canlı Demo https://asimaydin14.netlify.app/
 
 🇬🇧 English Description
 This is a modern responsive one-page portfolio website I created while learning React. Key features:
